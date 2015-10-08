@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+
+* Created by:Tomas Nieto
+
+* Created on: 2015-10-08
+
+* Created for: ICS3U
+
+* Daily Assignment – Unit #3-07
+
+* This program changes the picture of a man to simulate it moving
+
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
